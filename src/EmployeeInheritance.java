@@ -5,7 +5,7 @@ class Employee {
         int age;
         long ph_no;
         String address;
-        int salary;
+        double salary;
    
 }
 
